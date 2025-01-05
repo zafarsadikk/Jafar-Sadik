@@ -1,2 +1,1 @@
-# alex-smith
-iPortfolio - Bootstrap Portfolio Websites Template
+Zafar Sadik
